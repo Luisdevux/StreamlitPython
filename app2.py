@@ -411,7 +411,7 @@ with col_m:
     )
 
 st.success(
-    "**Resumo Executivo:** O restaurante tem seu pico de movimento no fim de semana, especialmente aos sábados no jantar. "
+    "**Resumo:** O restaurante tem seu pico de movimento no fim de semana, especialmente aos sábados no jantar. "
     "Clientes em grupos maiores gastam mais, mas o gasto por pessoa é similar. "
     "Não há diferença significativa entre fumantes/não fumantes ou homens/mulheres — o foco deve ser no dia e turno estratégico."
 )
